@@ -9,7 +9,7 @@ const Cosmetic = (props) => {
     } 
     
     return (
-        <div style={{border:"4px solid purple", padding:"20px", margin:"20px"}}>
+        <div style={{border:"2px solid purple", padding:"20px", margin:"20px"}}>
             <h2>Buy this: {name}</h2>
             <h4>Price: $ {price}</h4>
             <p>It has id : {id}</p> 
